@@ -1,0 +1,30 @@
+.elements {
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    width: 300px;
+}
+
+.check {
+    text-decoration: line-through;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.btn {
+    margin: 3px;
+}
+
+.important {
+    font-weight: bold;
+    color: orange;
+}
+
+.wrapperToDo {
+
+    margin: 0 auto;
+    width: 450px;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+

@@ -1,0 +1,13 @@
+.btnFilter {
+    margin-left: 5px;
+}
+
+.btnFilterActive {
+    margin-left: 5px;
+    color: orange;
+}
+
+.wrap {
+    text-align: center;
+    margin: 10px;
+}
